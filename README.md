@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ghaith essaleh</h1>
-<h3 align="center">A passionate frontend developer from Tunisie</h3>
+<h3 align="center">💻 Game Developer | Unity & C# | 3D & VR/AR Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaith-essaleh&label=Profile%20views&color=0e75b6&style=flat" alt="ghaith-essaleh" /> </p>
 
