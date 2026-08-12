@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaith-essaleh&label=Profile%20views&color=0e75b6&style=flat" alt="ghaith-essaleh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghaith-essaleh" alt="ghaith-essaleh" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ghaith-essaleh-4519b6312](https://www.linkedin.com/in/ghaith-essaleh-4519b6312)
 
 - 📫 How to reach me **ghaithessaleh055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ghaith essaleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghaith essaleh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
