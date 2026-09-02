@@ -59,10 +59,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaith-essaleh&show_icons=true&locale=en&layout=compact" alt="ghaith-essaleh" />
 </p>
 
-<p>
+<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaith-essaleh&show_icons=true&locale=en" alt="ghaith-essaleh" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghaith-essaleh&" alt="ghaith-essaleh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghaith-essaleh" alt="ghaith-essaleh" />
 </p>
