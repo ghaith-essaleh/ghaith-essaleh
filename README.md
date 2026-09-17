@@ -1,11 +1,8 @@
 <div align="center">
-  <!-- Dynamic Animated Typing Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+Ghaith+Essaleh+👋;Game+Developer+%7C+Unity+%26+C%23+%7C+3D+Creator;Building+Virtual+Worlds+%26+Immersive+Tech" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=180&section=header&text=Hi%20👋,%20I'm%20Ghaith%20Essaleh&fontSize=36&fontColor=00F5FF&animation=fadeIn" width="100%" alt="Header Wave" />
 
-  <!-- Animated Cyberpunk Border Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=140&section=header" width="100%" alt="Header Wave" />
+  <h3 align="center">🎮 Game Developer &bull; Unity & C# &bull; 3D & VR/AR Enthusiast</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ghaith-essaleh&label=SYSTEM+VISITS&color=00F5FF&style=for-the-badge" alt="Views" />
