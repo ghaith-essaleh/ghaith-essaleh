@@ -2,7 +2,7 @@
   <!-- Dynamic Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=180&section=header&text=Hi%20👋,%20I'm%20Ghaith%20Essaleh&fontSize=36&fontColor=00F5FF&animation=fadeIn" width="100%" alt="Header Wave" />
 
-  <h3 align="center">🎮 Game Developer &bull; Unity & C# &bull; 3D & VR/AR Enthusiast</h3>
+  <h3 align="center"> &bull; Unity & C# &bull; 3D & VR/AR Enthusiast</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ghaith-essaleh&label=SYSTEM+VISITS&color=00F5FF&style=for-the-badge" alt="Views" />
